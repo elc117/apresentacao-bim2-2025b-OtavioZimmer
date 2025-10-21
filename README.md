@@ -1,4 +1,4 @@
-Esta prática concentrava-se no conceito de herança em Java, e foi dividida em 2 partes.
+Esta prática concentrava-se no conceito de herança em Java (ex.: ``public class GroupAssignment extends Assignment``), e foi dividida em 2 partes.
 
 # Parte 1
 
