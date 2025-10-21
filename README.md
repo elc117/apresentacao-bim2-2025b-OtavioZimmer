@@ -25,10 +25,6 @@ public String toString() {
 }
 </pre>
 
-``@Override`` é usado nesse caso para impedir que retorne o nome da classe + o hashcode do objeto. Por exemplo:
-
-<pre>Assignment@5a07e868</pre>
-
 Com a sua utilização, a saída fica corretamente em forma de string.
 
 Depois, tínhamos que completar o método status, de modo que ele retornasse uma String representando o estado da tarefa: "done" se a tarefa estiver completa (não pendente); "late" se a tarefa estiver pendente e atrasada; "due in x days" se a tarefa estiver pendente, faltando x=daysLeft() dias para a entrega. Tudo levando em consideração as datas.
