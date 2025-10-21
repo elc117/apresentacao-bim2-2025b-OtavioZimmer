@@ -51,7 +51,7 @@ public class Assignment {
     return "Assignment " + this.description + " is " + status(); 
   }
 
-  @Override
+  //@Override
   public String toString() {
     return String.format("{ dueDate='%s', description='%s', pending='%s', submitDate='%s'}",
             dueDate, description, pending, submitDate);
