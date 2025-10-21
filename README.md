@@ -100,7 +100,7 @@ System.out.println("\n==> Completed Assignments: " + completedAssignmentsCount);
 
 # Parte 2
 
-Para a parte 2, tínhamos que aplicar o conceito de herança para criar uma espécie de quizz, com hierarquia de classes e diferentes classes para cada parte.
+Para a parte 2, tínhamos que aplicar o conceito de herança para criar uma espécie de quiz, com hierarquia de classes e diferentes classes para cada parte.
 
 Ao todo, criei 5 classes:
 - ``Question``: classe base (superclasse) que representa uma questão genérica de quiz.
