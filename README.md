@@ -134,7 +134,7 @@ public boolean checarResposta(String resposta) { // cada subclasse implementa (c
 }
 </pre>
 
-Cada um destes métodos deve se adaptar para ser utilizado nas classes dos dois diferentes tipos de questões. É aí que entram as classes ``TrueFalseQuestion.java`` e ```MultipleChoiceQuestion.java``. Cada uma implementa seu respectivo tipo de questão, com base em ``Question``. Ou seja, são subclasses de ``Question``, contendo atributos específicos e implementações próprias de alguns métodos. No caso de ``TrueFalseQuestion.java``, por exemplo:
+Cada um destes métodos deve se adaptar para ser utilizado nas classes dos dois diferentes tipos de questões. É aí que entram as classes ``TrueFalseQuestion.java`` e ``MultipleChoiceQuestion.java``. Cada uma implementa seu respectivo tipo de questão, com base em ``Question``. Ou seja, são subclasses de ``Question``, contendo atributos específicos e implementações próprias de alguns métodos. No caso de ``TrueFalseQuestion.java``, por exemplo:
 
 <pre>
 public class TrueFalseQuestion extends Question {
