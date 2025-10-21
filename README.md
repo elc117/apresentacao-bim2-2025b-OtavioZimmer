@@ -272,9 +272,9 @@ public class Main {
 }
 </pre>
 
-Com isso, pude concluir a parte 2.
+Utilizei ``Arrays.asList()`` para lidar de uma forma mais "fácil" e se adequar com o que se espera em ``MultipleChoiceQuestion``. Com isso, pude concluir a parte 2.
 
-- Pontos fáceis: criar as operações na classe ``Main`` e os métodos padrão em ``Question``
+- Pontos fáceis: criar as operações na classe ``Main`` e os métodos padrão em ``Question``.
 
 - Pontos difíceis: adaptar métodos para cada tipo de questão e checar a pergunta com base na resposta.
 
@@ -289,3 +289,4 @@ Com isso, pude concluir a parte 2.
 - chronoUnit: https://labex.io/tutorials/java-how-to-use-chronounit-for-date-operations-in-java-414155
 - super: https://www.w3schools.com/java/ref_keyword_super.asp
 - Random em Java: https://www.devmedia.com.br/numeros-aleatorios-em-java-a-classe-java-util-random/26355
+- Arrays.asList(): https://codegym.cc/groups/posts/arraysaslist-method-in-java
