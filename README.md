@@ -94,10 +94,10 @@ int completedAssignmentsCount = 0;
 - Parte difícil: modificar o método ``daysLeft`` para se adequar ao que era pedido e entender o funcionamento do ``super`` e sua implementação no código.
 
 ## Fontes
-toString(): http://www.mauda.com.br/?p=1472
-Override: https://stackoverflow.com/questions/94361/when-do-you-use-javas-override-annotation-and-why?
-String.format: https://www.w3schools.com/java/ref_string_format.asp
-compareTo(): https://www.w3schools.com/java/ref_string_compareto.asp
-chronoUnit: https://labex.io/tutorials/java-how-to-use-chronounit-for-date-operations-in-java-414155
-super: https://www.w3schools.com/java/ref_keyword_super.asp
-Random em Java: https://www.devmedia.com.br/numeros-aleatorios-em-java-a-classe-java-util-random/26355
+- toString(): http://www.mauda.com.br/?p=1472
+- Override: https://stackoverflow.com/questions/94361/when-do-you-use-javas-override-annotation-and-why?
+- String.format: https://www.w3schools.com/java/ref_string_format.asp
+- compareTo(): https://www.w3schools.com/java/ref_string_compareto.asp
+- chronoUnit: https://labex.io/tutorials/java-how-to-use-chronounit-for-date-operations-in-java-414155
+- super: https://www.w3schools.com/java/ref_keyword_super.asp
+- Random em Java: https://www.devmedia.com.br/numeros-aleatorios-em-java-a-classe-java-util-random/26355
